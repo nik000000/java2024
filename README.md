@@ -1,1 +1,1 @@
-# java2024
+# Core java examples
