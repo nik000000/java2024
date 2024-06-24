@@ -1,0 +1,10 @@
+
+	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8±•à‰„2J$8034bf7b-1be8-4c42-99ff-0d7697d45f2f
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¸•à‰„2J$5d02003f-11ce-4b7e-8e1a-63a62a830a3a
+r	java:S106"+Replace this use of System.out by a logger.(¯¥º¹şÿÿÿÿ8¹•à‰„2J$b7501c4d-6ba9-44a3-83ac-7d75e6ebb8c9
+†
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(ø¸¼8»•à‰„2J$78955b60-f9c0-40eb-8fe1-89532c66df36
+m	java:S106"+Replace this use of System.out by a logger.(»›øø8÷Êá‰„2J$7553f172-8fc9-40a9-ab84-7417714eeba0
+m	java:S106"+Replace this use of System.out by a logger.(ğ¤¯ë8ÀËã‰„2J$58a91831-beb0-4894-b67b-fcef8e6708b0
+r	java:S106"+Replace this use of System.out by a logger.(õõ®éüÿÿÿÿ8¥Âå‰„2J$99be3da3-337f-4aa0-96e2-14680043cf4f

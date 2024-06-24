@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îêÔÜ8…ıßÎ„2J$57271832-350b-4d60-ab94-27fb6405252e
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†ıßÎ„2J$563226fa-a09b-49c2-9154-bff4657e9555
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†ıßÎ„2J$40eace07-7fbe-4abc-84f6-c7c2a50aeda5
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ıßÎ„2J$90116cc9-5623-49a1-880a-3c2d8c4bab60
+r	java:S106
+"+Replace this use of System.out by a logger.(»–Êóúÿÿÿÿ8ıßÎ„2J$f9acba7f-c90c-4241-a854-990348d3a2dc
+r	java:S106"+Replace this use of System.out by a logger.(÷Šÿëùÿÿÿÿ8”ıßÎ„2J$94c1fd01-e21c-4713-a8d9-744de2fa74b7
+r	java:S106"+Replace this use of System.out by a logger.(âÜéÎşÿÿÿÿ8›ıßÎ„2J$a6bcd2d3-53ef-4ae1-b537-77dcefddf43b
+r	java:S106"+Replace this use of System.out by a logger.(‰Éş±şÿÿÿÿ8½®àÎ„2J$471069e8-df79-45aa-b472-87b0f20b20f5
