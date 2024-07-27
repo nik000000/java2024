@@ -27,3 +27,13 @@ P
  src/ReadWriteLock/MainClass.java,d/2/d281a651b93640a62d0bb0e975f41d15bccc48c1
 S
 #src/StampedLock/SharedResource.java,2/e/2e2cfbb7da845205a96e227e6f1309552618e0f2
+P
+ src/StampedLock/StampedMain.java,b/2/b2e0b3acb3f0989d9730226c7e7d59111e794c36
+^
+.src/StampedLock/optimistic/SharedResource.java,d/b/dbec8441758b13fd658794a8df3a7efd325c19fa
+^
+.src/StampedLock/optimistic/OptimisticMain.java,f/0/f0b7a742d8695752f0ce3043b07c06e9b705d2c0
+Q
+!src/semaphore/SharedResource.java,7/c/7ccd343d7958e61c2a015409d67688ebfe303838
+P
+ src/semaphore/SemaphoreMain.java,e/6/e60270e88fec013aaa25e0968a2cd7ad9f3d47bf

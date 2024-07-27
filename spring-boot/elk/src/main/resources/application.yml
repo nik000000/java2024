@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ELK-STACK-EXAMPLE
+
+server:
+  port: 9898
+
+logging:
+  file:
+    name: /Users/nareshjangid/Desktop/Java/tools/ELK/elk-logs/boot.log

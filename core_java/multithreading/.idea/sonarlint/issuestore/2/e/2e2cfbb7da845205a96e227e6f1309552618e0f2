@@ -1,4 +1,10 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´’ÍÁøÿÿÿÿJ$dcc2df8e-8f56-4008-b9c0-05a8528b1ef0
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(Õêìüúÿÿÿÿ8öŸß„2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´’ÍÁøÿÿÿÿ8×«çƒ…2J$940be63a-f346-4b29-a4e0-a324829c7277
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ø«çƒ…2J$2b473266-ba0d-4a5a-96b5-dfeee7b28371
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ø«çƒ…2J$a1279c3a-7272-4878-bd01-c839044ce512
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8à«çƒ…2J$8937793a-0308-47dc-b3a5-c40afe76c0ad
+m	java:S106"+Replace this use of System.out by a logger.(­Ã” 8à«çƒ…2J$e7189996-d5ad-457d-bb6f-73bc602ea578
+m	java:S106"+Replace this use of System.out by a logger.(§©í8â«çƒ…2J$fd1dcf41-ce65-449f-b542-518b39f3c81a
+r	java:S106"+Replace this use of System.out by a logger.(”ı»øÿÿÿÿ8ä«çƒ…2J$b679ba83-134d-43a8-afd7-d1a7e618043e
+r	java:S106 "+Replace this use of System.out by a logger.(Øõƒ²úÿÿÿÿ8ÿ´èƒ…2J$e489ef73-a7b3-40c5-9658-bc6d033e25d8
